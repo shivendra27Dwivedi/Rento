@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387579849325",
+    "firebase_url": "https://rento-2020.firebaseio.com",
+    "project_id": "rento-2020",
+    "storage_bucket": "rento-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387579849325:android:e690c4365345f23115ed64",
+        "android_client_info": {
+          "package_name": "com.cell47.rento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387579849325-23h48pimlr4h4vgqa3bit5hsl17u3665.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cell47.rento",
+            "certificate_hash": "6eea7104bace5f2ac71ebe68aee964be7934802d"
+          }
+        },
+        {
+          "client_id": "387579849325-egln31sqlklsu8oq5sn3fnb2g4p4uqmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlWiMTi8150uk35YP1gkwMz7FY_SDRhho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387579849325-egln31sqlklsu8oq5sn3fnb2g4p4uqmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
